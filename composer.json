@@ -1,10 +1,10 @@
 {
-    "name"  : "workerman/gateway-worker",
+    "name"  : "cyzonetech/gateway-worker",
     "keywords": ["distributed","communication"],
     "homepage": "http://www.workerman.net",
     "license" : "MIT",
     "require": {
-        "workerman/workerman" : ">=3.5.0"
+        "cyzonetech/workerman" : ">=3.5.0"
     },
     "autoload": {
         "psr-4": {"GatewayWorker\\": "./src"}
